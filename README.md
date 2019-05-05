@@ -35,6 +35,8 @@ Using mean, the color turned out as gray and cadet blue. There's a little differ
 
 There are red artifacts in the gray part of the shoe. These artifacts are present because the picture was taken in low light conditions. Compressing the image for web viewing further decreases the quality, enhancing these reddish artifacts. Exactly why some people are more perceptive about this phenomenon is still a bit unclear.
 
+![Console result](console.png)
+
 ## Stay In Touch
 
 For latest releases and announcements, check out my site: [aliashraf.net](http://aliashraf.net)
