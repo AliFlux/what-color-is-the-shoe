@@ -12,12 +12,12 @@ Some people look at the shoe and say that it is pink and white, others say its g
 
 The following steps were taken to analyze the photo:
 
-- Using photoshop, the image was split into two parts. Image A has pink/gray parts, image B has blue/white.
-- Loading of the two images using `skimage`
-- Extracting the pixels that are completely opaque
-- Performing either mean or median function on the extracted pixels (median is prefered and default)
+- Using photoshop, the image was split into two parts. Image A has pink/gray parts, image B has blue/white (psd included in this repo).
+- Loading of the two images using `skimage`.
+- Extracting the pixels that are completely opaque.
+- Performing either mean or median function on the extracted pixels (median is prefered and default).
 - Converting the mean/median color that is in RGB, into a readable english color using `webcolors` lib.
-- Plotting the result using `matplotlib`
+- Plotting the result using `matplotlib`.
 
 ## Analysis using Median Strategy
 
