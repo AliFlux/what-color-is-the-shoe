@@ -3,7 +3,7 @@
 ## Solving the age old riddle using python and data science
 
 <p align="center">
-  <img src="shoe.jpg" alt="What color is the shoe?" />
+  <img src="shoe.jpg" width="500" alt="What color is the shoe?" />
 </p>
 
 Some people look at the shoe and say that it is pink and white, others say its gray and blueish green. I took the liberty of anlyzing the two colors in this photo using scipy and numpy libraries. The results may, or may not surprise you.
